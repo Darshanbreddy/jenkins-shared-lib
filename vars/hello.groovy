@@ -1,3 +1,3 @@
 def call(){
-  echo "Hello Just checking shared libraries"
+  echo "Hello from shared libraries"
 }
